@@ -1,1 +1,1 @@
-window.location = http://www.yoururl.com;
+alert(document.cookie);
